@@ -1,0 +1,24 @@
+
+
+.container{
+  background-color: rgb(192, 179, 179);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+.list-group{
+    /* background-color: blue; */
+    color: #313428;
+}
+
+.alert alert-primary{
+    color: aqua;
+}
+.btn{
+    background-color: black;
+    color: red;
+}
